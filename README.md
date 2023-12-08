@@ -4,8 +4,8 @@
 **FlyStats DCS** is a Windows application for viewing and analysis of your gameplay statistics from the DCS World game. This app uses **.acmi** files from Tacview for data import.
 
 ## Downloads
-- You can download executable file from this repository releases tab
-- Later on you will be able to download app from website: [flystats.io](https://www.flystats.io/) (Under construction...)
+
+[![App Download](images/windows_store.png)](https://apps.microsoft.com/404/product?id=9NDXX6S70978)
 
 ## App Features
 - Detailed player, aircraft, sortie and missile statistics
