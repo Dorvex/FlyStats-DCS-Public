@@ -5,7 +5,9 @@
 
 ## Downloads
 
-[![App Download](images/windows_store.png)](https://apps.microsoft.com/404/product?id=9NDXX6S70978)
+<a href="https://apps.microsoft.com/404/product?id=9NDXX6S70978">
+  <img src="images/windows_store.png" alt="Download app" width="250">
+</a>
 
 ## App Features
 - Detailed player, aircraft, sortie and missile statistics
