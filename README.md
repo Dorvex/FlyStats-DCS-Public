@@ -92,8 +92,8 @@ This app uses Google Oauth 2.0, which does not gives your password in any way.
 You can read more about Google Oauth 2.0 here:
 [Google Oauth 2.0 Documentation](https://cloud.google.com/apigee/docs/api-platform/security/oauth/oauth-introduction#:~:text=%22The%20OAuth%202.0%20authorization%20framework,obtain%20access%20on%20its%20own)
 
-After sucessfull authentification using Google app recieves your private auth token (a way to link your data to your google account). 
-After this email, google profile picture link is encrypted by app and cached locally for the purpose you displaying them in app.
+After successful authentication using Google, app receives your private auth token (a way to link your data to your google account). 
+After this email and google profile picture link is encrypted by app and cached locally for the purpose you displaying them in side menu.
 
 If you are logged in you can specify your in-game callsign to ease the process of finding yourself in match scoreboard and uploading your replays faster. Callsign is also stored on app server.
 
