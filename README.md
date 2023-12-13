@@ -36,22 +36,6 @@ Don't have tacview? You can download it here: [Tacview Website](https://www.tacv
 
 <details>
 
-<summary>Match scoreboard</summary>
-
-![Match scoreboard](screenshots/screenshot_scoreboard.png)
-
-</details>
-
-<details>
-
-<summary>Player saved matches </summary>
-
-![Player saved matches ](screenshots/screenshot_last_matches.png)
-
-</details>
-
-<details>
-
 <summary>Player statistics</summary>
 
 ![Player statistics](screenshots/screenshot_player.png)
@@ -60,9 +44,9 @@ Don't have tacview? You can download it here: [Tacview Website](https://www.tacv
 
 <details>
 
-<summary>Aircraft statistics</summary>
+<summary>Match scoreboard</summary>
 
-![Aircraft statistics](screenshots/screenshot_airframe.png)
+![Match scoreboard](screenshots/screenshot_scoreboard.png)
 
 </details>
 
@@ -79,6 +63,22 @@ Don't have tacview? You can download it here: [Tacview Website](https://www.tacv
 <summary>Sortie statistics</summary>
 
 ![Sortie statistics](screenshots/screenshot_sortie.png)
+
+</details>
+
+<details>
+
+<summary>Aircraft statistics</summary>
+
+![Aircraft statistics](screenshots/screenshot_airframe.png)
+
+</details>
+
+<details>
+
+<summary>Player saved matches </summary>
+
+![Player saved matches ](screenshots/screenshot_last_matches.png)
 
 </details>
 
