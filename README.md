@@ -10,7 +10,8 @@
 <a href="https://apps.microsoft.com/detail/9NDXX6S70978">
   <img src="images/windows_store.png" alt="Download app" width="250">
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
+<br>
 <a href="https://github.com/Dorvex/FlyStats-DCS-Public/releases/download/1.0.3.0/flystats_dcs_installer.exe">
   <img src="images/direct_download.png" alt="Download app" width="250">
 </a>
