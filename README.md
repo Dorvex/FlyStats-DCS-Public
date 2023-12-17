@@ -7,14 +7,9 @@
 
 ## Downloads
 
-<a href="https://apps.microsoft.com/detail/9NDXX6S70978">
-  <img src="images/windows_store.png" alt="Download app" width="250">
-</a>
-<br>
-<br>
-<a href="https://github.com/Dorvex/FlyStats-DCS-Public/releases/download/1.0.3.0/flystats_dcs_installer.exe">
-  <img src="images/direct_download.png" alt="Download app" width="250">
-</a>
+<p align="left">
+<a href="https://apps.microsoft.com/detail/9NDXX6S70978" rel="noreferrer"><img src="images/windows_store.png" width="250" alt="Download from MS Store" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Dorvex/FlyStats-DCS-Public/releases/download/1.0.3.0/flystats_dcs_installer.exe" rel="noreferrer"><img src="images/direct_download.png" width="250" alt="Download installer" /></a>
+</p>
 
 ## App Features
 - Detailed player, aircraft, sortie and missile statistics
