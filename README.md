@@ -11,6 +11,10 @@
   <img src="images/windows_store.png" alt="Download app" width="250">
 </a>
 
+<a href="https://github.com/Dorvex/FlyStats-DCS-Public/releases/download/1.0.3.0/flystats_dcs_installer.exe">
+  <img src="images/direct_download.png" alt="Download app" width="250">
+</a>
+
 ## App Features
 - Detailed player, aircraft, sortie and missile statistics
 - Match score table, supports filtering, sorting and export to image
