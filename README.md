@@ -86,9 +86,6 @@ Don't have tacview? You can download it here: [Tacview Website](https://www.tacv
 
 ## Changes waiting for next release
 
-- Data Usage text in About section
-- Offline mode statistics saving support
-- Hotfix for incorrect filtering replays by date in Statistics section
 
 ## Statistics notes
 - Due to Fligh Log limitations missile travel distance is calculated as distance between launch point and hit point in 3D space and can be referenced as "Estimate missile travel distance".
