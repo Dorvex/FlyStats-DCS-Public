@@ -8,7 +8,7 @@
 ## Downloads
 
 <p align="left">
-<a href="https://apps.microsoft.com/detail/9NDXX6S70978" rel="noreferrer"><img src="images/windows_store.png" width="250" alt="Download from MS Store" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Dorvex/FlyStats-DCS-Public/releases/download/1.0.3.0/flystats_dcs_installer.exe" rel="noreferrer"><img src="images/direct_download.png" width="250" alt="Download installer" /></a>
+<a href="https://apps.microsoft.com/detail/9NDXX6S70978" rel="noreferrer"><img src="images/windows_store.png" width="250" alt="Download from MS Store" /></a>
 </p>
 
 ## App Features
